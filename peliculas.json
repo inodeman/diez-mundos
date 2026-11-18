@@ -1,1 +1,12 @@
-Ver peliculas/*.md — el JSON completo se sube en el mismo commit si cabe.
+[
+  {"n": "01", "id": "abismo", "title": "Abismo Luminoso", "ytTitle": "Abismo Luminoso | 30 min de animación 3D del océano abisal", "file": "peliculas/01-abismo.md"},
+  {"n": "02", "id": "forja", "title": "Forja de Estrellas", "ytTitle": "Forja de Estrellas | 30 min de animación 3D de una nebulosa", "file": "peliculas/02-forja.md"},
+  {"n": "03", "id": "cristal", "title": "Catedral de Cristal", "ytTitle": "Catedral de Cristal | 30 min de minerales creciendo en 3D", "file": "peliculas/03-cristal.md"},
+  {"n": "04", "id": "ciudad", "title": "La Ciudad Bajo Tierra", "ytTitle": "La Ciudad Bajo Tierra | 30 min de una megaciudad de hormigas en 3D", "file": "peliculas/04-ciudad.md"},
+  {"n": "05", "id": "rayo", "title": "Anatomía de un Rayo", "ytTitle": "Anatomía de un Rayo | 30 min de tormenta en animación 3D", "file": "peliculas/05-rayo.md"},
+  {"n": "06", "id": "arrecife", "title": "Arrecife que Respira", "ytTitle": "Arrecife que Respira | 30 min de coral y cardumen en 3D", "file": "peliculas/06-arrecife.md"},
+  {"n": "07", "id": "volcan", "title": "Corazón de un Volcán", "ytTitle": "Corazón de un Volcán | 30 min de magma en animación 3D", "file": "peliculas/07-volcan.md"},
+  {"n": "08", "id": "invisible", "title": "El Mundo Invisible", "ytTitle": "El Mundo Invisible | 30 min dentro de una célula en 3D", "file": "peliculas/08-invisible.md"},
+  {"n": "09", "id": "polar", "title": "Cortina Polar", "ytTitle": "Cortina Polar | 30 min de aurora boreal en animación 3D", "file": "peliculas/09-polar.md"},
+  {"n": "10", "id": "reloj", "title": "Reloj del Sistema Solar", "ytTitle": "Reloj del Sistema Solar | 30 min de un planetario en 3D", "file": "peliculas/10-reloj.md"}
+]
